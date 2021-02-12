@@ -1,0 +1,1 @@
+package eu.trenend.minesweeper.model;
